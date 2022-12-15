@@ -1,7 +1,7 @@
-package lockpatterns.oop;
+package de.javaabc.lockpatterns.oop;
 
-import lockpatterns.util.Cache;
-import lockpatterns.util.MathUtil;
+import de.javaabc.lockpatterns.util.Cache;
+import de.javaabc.lockpatterns.util.MathUtil;
 
 import java.util.ArrayList;
 import java.util.List;

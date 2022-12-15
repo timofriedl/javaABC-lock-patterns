@@ -1,4 +1,4 @@
-package lockpatterns._bruteforce;
+package de.javaabc.lockpatterns._bruteforce;
 
 /**
  * BRUTEFORCE

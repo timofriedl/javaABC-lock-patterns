@@ -1,8 +1,8 @@
-package lockpatterns._treesearch;
+package de.javaabc.lockpatterns._treesearch;
 
 import java.util.Arrays;
 
-import static lockpatterns.util.MathUtil.arrayContains;
+import static de.javaabc.lockpatterns.util.MathUtil.arrayContains;
 
 /**
  * TREESEARCH

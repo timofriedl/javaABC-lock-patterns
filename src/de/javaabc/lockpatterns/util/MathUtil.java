@@ -1,4 +1,4 @@
-package lockpatterns.util;
+package de.javaabc.lockpatterns.util;
 
 import java.util.function.Supplier;
 

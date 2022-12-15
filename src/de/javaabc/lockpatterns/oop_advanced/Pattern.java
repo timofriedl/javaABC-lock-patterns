@@ -1,7 +1,7 @@
-package lockpatterns.oop_advanced;
+package de.javaabc.lockpatterns.oop_advanced;
 
-import lockpatterns.util.Cache;
-import lockpatterns.util.MathUtil;
+import de.javaabc.lockpatterns.util.Cache;
+import de.javaabc.lockpatterns.util.MathUtil;
 
 import java.awt.*;
 import java.util.HashSet;

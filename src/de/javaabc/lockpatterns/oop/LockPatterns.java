@@ -1,4 +1,4 @@
-package lockpatterns.oop;
+package de.javaabc.lockpatterns.oop;
 
 /**
  * OBJECT ORIENTED APPROACH
